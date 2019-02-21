@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"expanded":true,"name":"JOJO的家","order":1,"parentId":0,"scrollX":819,"scrollY":481},
+{"id":2,"expanded":true,"name":"野外1","order":2,"parentId":1,"scrollX":819,"scrollY":481},
+{"id":3,"expanded":false,"name":"下水道涵洞","order":3,"parentId":2,"scrollX":1288,"scrollY":1447},
+{"id":4,"expanded":true,"name":"漂浮城市","order":4,"parentId":1,"scrollX":1288,"scrollY":1700},
+{"id":5,"expanded":false,"name":"地下城鎮","order":5,"parentId":4,"scrollX":869,"scrollY":1207},
+{"id":6,"expanded":false,"name":"大廈","order":6,"parentId":4,"scrollX":1157,"scrollY":1424},
+{"id":7,"expanded":false,"name":"道具商店","order":7,"parentId":4,"scrollX":819,"scrollY":481},
+{"id":8,"expanded":true,"name":"漂浮城市(左敵)","order":9,"parentId":4,"scrollX":1533,"scrollY":1344},
+{"id":9,"expanded":false,"name":"盔甲商店","order":8,"parentId":4,"scrollX":819,"scrollY":481},
+{"id":10,"expanded":true,"name":"漂浮城市(全敵)","order":10,"parentId":8,"scrollX":1573,"scrollY":1624}
+]

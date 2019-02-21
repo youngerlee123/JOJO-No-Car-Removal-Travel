@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"JOJO","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor2_1","characterIndex":0,"characterName":"Actor2","classId":2,"equips":[3,0,0,0,0],"faceIndex":0,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"波乳那雷敷","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor1_4","characterIndex":3,"characterName":"Actor1","classId":3,"equips":[4,0,0,0,0],"faceIndex":0,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"阿不德耳","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":4,"equips":[2,0,0,0,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"花精願","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"無名男","characterIndex":0,"characterName":"無名男","classId":5,"equips":[18,0,0,0,0],"faceIndex":0,"faceName":"無名男","traits":[],"initialLevel":1,"maxLevel":99,"name":"無名的傳說俠客","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"無名女","characterIndex":0,"characterName":"無名女","classId":5,"equips":[19,0,0,0,0],"faceIndex":0,"faceName":"無名女","traits":[],"initialLevel":1,"maxLevel":99,"name":"無名的傳說俠女","nickname":"","note":"","profile":""}
+]
